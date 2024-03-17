@@ -14,7 +14,7 @@
 
         let url =
             PUBLIC_BASE_URL +
-            "/api/predict/?luxurious=" +
+            "/api/predict/appartment/?luxurious=" +
             luxurious +
             "&area=" +
             area +
